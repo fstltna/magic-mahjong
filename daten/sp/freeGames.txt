@@ -1,0 +1,2 @@
+﻿chooseTitle=Juego Gratis
+&menuBtn=Menú

@@ -1,0 +1,2 @@
+﻿creditsTitle=Credits
+&menuBtn=Menu

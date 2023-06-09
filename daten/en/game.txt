@@ -1,0 +1,17 @@
+﻿leftBtn=Left
+&rightBtn=Right
+&pauseBtn=Pause
+&tipBtn=Hint
+&pauseTxt=Pause
+&timeTxt=Time
+&tileTxt=Tiles
+&totalTimeTxt=Total Time
+&pointsTxt=Score
+&totalPointsTxt=Final Score
+&againBtn=Restart Level
+&levelChooseBtn=Level Selection
+&nextLevelBtn=Continue
+&menuBtn=Menu
+&lostTitle=Defeat
+&winTitle=Victory
+&winCampaigneTitle=Campaign Won

@@ -1,0 +1,6 @@
+﻿campaignBtn=Campagne
+&freeGameBtn=Jeu Libre
+&instructionBtn=Manuel
+&scoreBtn=Liste de classement
+&creditBtn=Remerciements
+&endBtn=Fin

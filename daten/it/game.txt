@@ -1,0 +1,17 @@
+﻿leftBtn=Sinistra
+&rightBtn=Destra
+&pauseBtn=Pausa
+&tipBtn=Indizio
+&pauseTxt=Pausa
+&timeTxt=Tempo
+&tileTxt=Pedine
+&totalTimeTxt=Tempo Totale
+&pointsTxt=Punteggio
+&totalPointsTxt=Punteggio Finale
+&againBtn=Rinizia Livello
+&levelChooseBtn=Selezione Livello
+&nextLevelBtn=Continua
+&menuBtn=Menù
+&lostTitle=Sconfitta
+&winTitle=Vittoria
+&winCampaigneTitle=Campagna Vinta

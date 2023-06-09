@@ -1,0 +1,17 @@
+﻿leftBtn=Links
+&rightBtn=Rechts
+&pauseBtn=Pause
+&tipBtn=Vorschlag
+&pauseTxt=Pause
+&timeTxt=Zeit
+&tileTxt=Steine
+&totalTimeTxt=Gesamtzeit
+&pointsTxt=Punkte
+&totalPointsTxt=Gesamtpunktzahl
+&againBtn=Level erneut spielen
+&levelChooseBtn=Levelauswahl
+&nextLevelBtn=Weiter
+&menuBtn=Menü
+&lostTitle=Verloren
+&winTitle=Gewonnen
+&winCampaigneTitle=Kampagne gewonnen

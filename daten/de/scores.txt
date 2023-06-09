@@ -1,0 +1,5 @@
+﻿scoresTitle=Rangliste
+&posTxt=Platz
+&nameTxt=Name
+&pointsTxt=Punkte
+&menuBtn=Menü

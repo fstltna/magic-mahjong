@@ -1,0 +1,5 @@
+﻿scoresTitle=Ranking List
+&posTxt=Rank
+&nameTxt=Name
+&pointsTxt=Score
+&menuBtn=Menu

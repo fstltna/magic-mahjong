@@ -1,0 +1,6 @@
+﻿campaignBtn=Kampagne
+&freeGameBtn=Freie Spiele
+&instructionBtn=Anleitung
+&scoreBtn=Rangliste
+&creditBtn=Credits
+&endBtn=Ende

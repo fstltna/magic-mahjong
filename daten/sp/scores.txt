@@ -1,0 +1,5 @@
+﻿scoresTitle=Clasificación
+&posTxt=Puesto
+&nameTxt=Nombre
+&pointsTxt=Puntaje
+&menuBtn=Menú

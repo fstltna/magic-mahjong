@@ -1,0 +1,17 @@
+﻿leftBtn=Izqui
+&rightBtn=Derech
+&pauseBtn=Pausa
+&tipBtn=Pista
+&pauseTxt=Pausa
+&timeTxt=Tiempo
+&tileTxt=Losas
+&totalTimeTxt=Tiempo Total
+&pointsTxt=Puntos
+&totalPointsTxt=Puntaje Final
+&againBtn=Reinicio Nivel
+&levelChooseBtn=Escoja el Nivel
+&nextLevelBtn=Continuar
+&menuBtn=Menú
+&lostTitle=Derrota
+&winTitle=Victoria
+&winCampaigneTitle=Campaña Ganada

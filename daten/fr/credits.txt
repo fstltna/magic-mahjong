@@ -1,0 +1,2 @@
+﻿creditsTitle=Remerciements
+&menuBtn=Menu

@@ -1,0 +1,5 @@
+﻿scoresTitle=Liste de classement
+&posTxt=Classement
+&nameTxt=Nom
+&pointsTxt=Score
+&menuBtn=Menu

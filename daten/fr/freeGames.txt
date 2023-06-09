@@ -1,0 +1,2 @@
+﻿chooseTitle=Jeu Libre
+&menuBtn=Menu

@@ -1,0 +1,4 @@
+﻿instructionTitle=Anleitung
+&menuBtn=Menü
+&prevBtn=Zurück
+&nextBtn=Vor

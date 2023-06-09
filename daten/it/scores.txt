@@ -1,0 +1,5 @@
+﻿scoresTitle=Classifica
+&posTxt=Rango
+&nameTxt=Nome
+&pointsTxt=Punteggio
+&menuBtn=Menù

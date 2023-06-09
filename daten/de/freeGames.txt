@@ -1,0 +1,2 @@
+﻿chooseTitle=Freie Spiele
+&menuBtn=Menü

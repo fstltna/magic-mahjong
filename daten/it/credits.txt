@@ -1,0 +1,2 @@
+﻿creditsTitle=Titoli di coda
+&menuBtn=Menù

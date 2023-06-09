@@ -1,0 +1,4 @@
+﻿instructionTitle=Manuel
+&menuBtn=Menu
+&prevBtn=Précédent
+&nextBtn=Suivant

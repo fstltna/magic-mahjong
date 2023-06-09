@@ -1,0 +1,6 @@
+﻿campaignBtn=Campagna
+&freeGameBtn=Gioco Libero
+&instructionBtn=Manuale
+&scoreBtn=Classifica
+&creditBtn=Titoli di coda
+&endBtn=Fine
